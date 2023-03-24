@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/cryptoman"><img src="https://api.daily.dev/devcards/5de1a1a9c312470aaeff488db28e6b57.png?r=qtn" width="400" alt="Cryptoman's Dev Card"/></a>
+
 <!--
 **honhosing/honhosing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
